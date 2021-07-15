@@ -34,7 +34,7 @@ I hope to develop something that everyone can use.
 ### ✉️ Contact
 
 <p>
-  <a href="https://soyou.space" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
   <!-- <a href="https://codingduck.tistory.com/"><img src="https://img.shields.io/badge/Devlog-7952B3?style=flat-square&logo=GitHub&logoColor=white&link=https://codingduck.tistory.com/"/></a>&nbsp -->
   <a href="mailto:jjellyduck@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
