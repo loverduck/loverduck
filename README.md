@@ -1,7 +1,6 @@
 ### Soyou
 
-> back-end developer
-> 
+> back-end developer  
 > hope to develop something that everyone can use
 
 <br>
