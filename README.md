@@ -20,7 +20,6 @@
 <br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=so_you)](https://solved.ac/so_you)
-![Solved.ac잔디](https://mazandi.herokuapp.com/api?handle=so_you&theme=warm)
 <br>
 
 ### Contact
